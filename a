@@ -1,0 +1,48 @@
+[33mcommit 66139be774accfd8b82d71a6ecc5237e96c17149[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Inderjot Singh Chawla <ichawla7@r1rcm.com>
+Date:   Wed Aug 24 15:43:23 2022 +0530
+
+    DELETED THE FILEEE
+
+[33mcommit 20f5988d3b6cbe121258998d360a50d033d17c42[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Inderjot Singh Chawla <ichawla7@r1rcm.com>
+Date:   Wed Aug 24 15:20:01 2022 +0530
+
+    LAST COMMIT FROM ME After Merging using git pull origin <branch name>
+
+[33mcommit bd4c2dd7ccaec0fab0c42feeb59d966462f3db57[m
+Merge: 0553b92 7f8c0e5
+Author: Inderjot Singh Chawla <ichawla7@r1rcm.com>
+Date:   Wed Aug 24 15:12:59 2022 +0530
+
+    Merge branch 'main' of https://github.com/InderjotSinghChawla/first
+
+[33mcommit 0553b92b2fde205866f1037dda05b2a6a0423d8c[m
+Author: Inderjot Singh Chawla <ichawla7@r1rcm.com>
+Date:   Wed Aug 24 15:09:58 2022 +0530
+
+    Conflict commit from local
+
+[33mcommit 7f8c0e5d64f1522d1c1cbfad37589d550071a79e[m
+Author: InderjotSinghChawla <111967933+InderjotSinghChawla@users.noreply.github.com>
+Date:   Wed Aug 24 14:39:20 2022 +0530
+
+    Update README.md
+
+[33mcommit 32bc5b0655ae1eb5cb55d94daadf99c706c14264[m
+Author: Inderjot Singh Chawla <ichawla7@r1rcm.com>
+Date:   Wed Aug 24 14:33:39 2022 +0530
+
+    1st edit from local.
+
+[33mcommit 1c5011e390b96032e47ddb875d0082246317288b[m
+Author: InderjotSinghChawla <111967933+InderjotSinghChawla@users.noreply.github.com>
+Date:   Wed Aug 24 14:29:34 2022 +0530
+
+    Update README.md
+
+[33mcommit 6f4793e22daa7fb60b916291acac3a3227f6199c[m
+Author: InderjotSinghChawla <111967933+InderjotSinghChawla@users.noreply.github.com>
+Date:   Wed Aug 24 14:29:12 2022 +0530
+
+    Initial commit
